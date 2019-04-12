@@ -11,6 +11,7 @@ namespace PlanillaNuevasAltas.Data
     {
         public NuevasAltasContext(DbContextOptions<NuevasAltasContext> options) : base(options)
         {
+            
         }
 
 
@@ -29,7 +30,7 @@ namespace PlanillaNuevasAltas.Data
             modelBuilder.Entity<Politica_Anulacion>().ToTable("Politica_Anulacion");
             modelBuilder.Entity<Contacto>().ToTable("Contacto");
 
-
+            OnModelCreating(modelBuilder);
         }
 
     }
