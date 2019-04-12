@@ -24,9 +24,9 @@ namespace PlanillaNuevasAltas.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Articulos>().HasKey(x => x.IdArticulo);
-            modelBuilder.Entity<Forma_pago>().ToTable("Forma_pago");
-            modelBuilder.Entity<Tipo_Analisis>().ToTable("Tipo_Analisis");
+            modelBuilder.Entity<Articulo>().ToTable("Articulos").HasKey(x => x.Id);
+            modelBuilder.Entity<FormaPago>().ToTable("FormasPagos").HasKey(x=>x.Id)
+            modelBuilder.Entity<Tipo_Analisis>().ToTable("Tipo_Analisis").HasKey(x=>x.Id);
             modelBuilder.Entity<Politica_Anulacion>().ToTable("Politica_Anulacion");
             modelBuilder.Entity<Contacto>().ToTable("Contacto");
 
