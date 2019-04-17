@@ -1,0 +1,60 @@
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.deps.json
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.runtimeconfig.json
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.runtimeconfig.dev.json
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.dll
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.pdb
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.Views.dll
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.Views.pdb
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.csprojAssemblyReference.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.csproj.CoreCompileInputs.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorAssemblyInfo.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorAssemblyInfo.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.AssemblyInfoInputs.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.AssemblyInfo.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.TagHelpers.input.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.TagHelpers.output.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorCoreGenerate.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorTargetAssemblyInfo.cache
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorTargetAssemblyInfo.cs
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.Views.pdb
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.dll
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.pdb
+C:\Users\pledesma\source\repos\PlanillaNuevasAltas\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.csproj.CopyComplete
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.csprojAssemblyReference.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.csproj.CoreCompileInputs.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorAssemblyInfo.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorAssemblyInfo.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.AssemblyInfoInputs.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.AssemblyInfo.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.dll
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.pdb
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.deps.json
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.runtimeconfig.json
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.runtimeconfig.dev.json
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.dll
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.pdb
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.Views.dll
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\bin\Debug\netcoreapp2.2\PlanillaNuevasAltas.Views.pdb
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.TagHelpers.input.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.TagHelpers.output.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorCoreGenerate.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorTargetAssemblyInfo.cache
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.RazorTargetAssemblyInfo.cs
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.Views.pdb
+C:\Users\pledesma\Desktop\modificaciones proyecto\PlanillaNuevasAltas-master\PlanillaNuevasAltas-master\PlanillaNuevasAltas\obj\Debug\netcoreapp2.2\PlanillaNuevasAltas.csproj.CopyComplete
